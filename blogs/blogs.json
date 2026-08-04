@@ -2,13 +2,14 @@
   "repo": "logixboard",
   "feeds": [
     {
+      "source": "https://logixboard.com/feed/",
+      "error": "HTTPError"
+    },
+    {
       "source": "https://logixboard.com/product/",
-      "feed_url": "https://logixboard.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "discovered"
+      "error": "HTTPError"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-07-25T15:00:33Z"
+  "fetched": "2026-08-01T15:49:00Z"
 }
